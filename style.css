@@ -1,40 +1,14 @@
 body {
- background-color: rgb(158, 103, 90);
+    background-color: rgb(197, 160, 143);
 }
 
 h1 {
- text-align:center ;
- border-color: brown;
- border-width: 20px;
- border-style: ridge;
- background-color: rgb(138, 37, 37);
-}
-
-h2 {
-
- text-align:center ;
- border-color: rgb(119, 20, 20);
- border-width: 20px;
- border-style: ridge;
- background-color: rgb(211, 38, 38);
-}
-
-h4{
     text-align: center;
-    font-size:  170%;;
-    border-color: rgb(119, 20, 20);
-    border-width: 20px;
-    border-style: ridge;
-    background-color: rgb(211, 38, 38);
-}
-
-h5{
-    font-size: 200%;
-    text-align: left;
-}
-
-h3{
-    text-align: center;
+    border-color: rgb(6, 38, 221);
     border-style: double;
-    border-color: rgb(255, 134, 134);
+    border-width: 10px;
+}
+
+h5 {
+    font-size: 120%;
 }
