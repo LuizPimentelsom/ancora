@@ -1,14 +1,31 @@
-body {
-    background-color: rgb(197, 160, 143);
+body{
+    background-color: rgb(152, 86, 179);
 }
 
 h1 {
     text-align: center;
     border-color: rgb(6, 38, 221);
-    border-style: double;
+    border-style: groove;
     border-width: 10px;
+    background-color: rgb(168, 179, 238);
+    margin-right: 82%;
+    
 }
 
 h5 {
-    font-size: 120%;
+    font-size: 200%;
+}
+
+h3 { 
+   font-size: 170%;
+}
+
+
+.volt{
+ text-align: center;
+ font-size: 110%;
+}
+
+.cons {
+    font-size: 150%;
 }
